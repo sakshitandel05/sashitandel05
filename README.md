@@ -37,6 +37,7 @@ This project uses an ultrasonic sensor and a soil moisture sensor to detect whet
  **Language:** Arduino (C/C++)
  **Platform:** Arduino IDE
  **Libraries:** Servo.h
+ **Code:** README.md
 
 ### Functionality
  Measures distance to detect waste presence
