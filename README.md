@@ -37,7 +37,7 @@ This project uses an ultrasonic sensor and a soil moisture sensor to detect whet
  **Language:** Arduino (C/C++)
  **Platform:** Arduino IDE
  **Libraries:** Servo.h
- **Code:** SmartDustbinCode.ipynb
+ **Code:** [SmartDustbinCode.ipynb](https://github.com/sakshitandel05/smart-dustbin-code)
 Backup -> [README.md](https://github.com/sakshitandel05/IoT-code.git) 
 
 ### Functionality
