@@ -38,7 +38,6 @@ This project uses an ultrasonic sensor and a soil moisture sensor to detect whet
  **Platform:** Arduino IDE
  **Libraries:** Servo.h
  **Code:** [SmartDustbinCode.ipynb](https://github.com/sakshitandel05/smart-dustbin-code)
-Backup -> [README.md](https://github.com/sakshitandel05/IoT-code.git) 
 
 ### Functionality
  Measures distance to detect waste presence
